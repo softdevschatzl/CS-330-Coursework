@@ -1,0 +1,8 @@
+﻿  SceneManager.cpp
+C:\Users\cinna\Desktop\Productivity\school stuffs\SNHU\M01(May-June)\CS330\CS330Content (New)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 770 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\cinna\Desktop\Productivity\school stuffs\SNHU\M01(May-June)\CS330\CS330Content (New)\CS330Content\Projects\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe
